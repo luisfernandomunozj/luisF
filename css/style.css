@@ -1,0 +1,22 @@
+h1{
+ color: rgb(87, 68, 15); 
+ text-align: center; 
+ border:4px rgba(173, 152, 32, 0.801) solid;
+ background-color: rgba(173, 152, 32, 0.801);
+
+}
+
+h2{
+    text-align: center; 
+    color: rgb(87, 68, 15); 
+    background-color: rgba(173, 152, 32, 0.801);
+
+}
+
+html{
+    background-image: linear-gradient(rgba(11, 98, 185, 0.932),rgba(143, 248, 5, 0.5)), url(../images/Conan.jpg);
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-color: rgba(red, green, blue, alpha);
+    
+}
