@@ -12,7 +12,16 @@ h2{
     background-color: rgba(173, 152, 32, 0.801);
 
 }
+.subtitulo1 {
+    font-size: 50px;
+    text-align: center;
+}
 
+.subtitulo1.hover {
+font-size: 50px;
+text-align: center;
+
+}
 html{
     background-image: linear-gradient(rgba(11, 98, 185, 0.932),rgba(143, 248, 5, 0.5)), url(../images/Conan.jpg);
     background-size: cover; 
